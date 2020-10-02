@@ -7,10 +7,8 @@ import pyemailscraper
 emails = EmailScraper("https://8loop.cl")
 print("mails %s" % emails.scrap())
 """
-
 import re
 import requests
-RE = r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,6}\b"
 
 class EmailScraper:
     def __init__(self, url):

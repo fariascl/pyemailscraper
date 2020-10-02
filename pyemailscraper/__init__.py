@@ -1,2 +1,1 @@
-
 from pyemailscraper import EmailScraper

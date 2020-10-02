@@ -1,1 +1,1 @@
-from pyemailscraper import EmailScraper
+from .pyemailscraper import EmailScraper

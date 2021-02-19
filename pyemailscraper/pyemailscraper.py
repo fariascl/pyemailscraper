@@ -1,8 +1,8 @@
 # pyemailscraper.py
 # Autor: Alejandro (farias@8loop.cl)
-# Esta librería scrapea todos los emails de las páginas
+# Esta librería scrapea todos los emails disponibles en una URL
 """
-import pyemailscraper
+from pyemailscraper import EmailScraper
 
 emails = EmailScraper("https://8loop.cl")
 print("mails %s" % emails.scrap())

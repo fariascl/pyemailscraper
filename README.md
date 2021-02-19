@@ -1,2 +1,2 @@
 # pymailscraper
-A Python library for scrape all email address from an URL
+A Python library for scrape all email addresses from an URL

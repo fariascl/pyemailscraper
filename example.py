@@ -1,6 +1,6 @@
 from pyemailscraper.pyemailscraper import *
 
-URL = "http://ubiobio.cl"
+URL = "http://biobiochile.cl"
 file = "example.txt"
 
 emails = FileScraper("example.txt")

@@ -1,0 +1,2 @@
+correo@dominio.tld
+email@example.com
